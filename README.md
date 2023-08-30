@@ -45,6 +45,6 @@ We welcome contributions from the community! If you have ideas for improvements 
 License
 This project is licensed under the MIT License:
 
-Video demonstration link: 
+Video demonstration link: https://drive.google.com/file/d/1Hg2sZPPD2SY5V8xddU8N2cYNrkBf6bDU/view
 
 Some code borrowed from Thomas Calle @ https://github.com/ThomasCalle/Thomas-SQL-Employee-Tracker/tree/main
